@@ -1,1 +1,2 @@
-# adi
+int main(){
+snsb
